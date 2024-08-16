@@ -9,7 +9,8 @@
 body
 {
     background-color: rgb(56, 126,133);
-    height: 100vh;
+    height: 1000px;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
